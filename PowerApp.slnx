@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="PowerAppCli/PowerAppCli.csproj" />
+  <Project Path="PowerAppCore/PowerAppCore.csproj" />
+  <Project Path="PowerAppWeb/PowerAppWeb.csproj" />
+</Solution>
